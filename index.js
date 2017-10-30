@@ -22,7 +22,7 @@ exports.handler = (event, context, callback) => {
 
     //Configuration - Start
     var srcBucket = 'hx-detect-face-for-ad';
-    var managerPhoneNumber = "+19999999999";
+    var managerPhoneNumber = "+818056152059";
     var table = "demographic";
     //Configuration - End
 
